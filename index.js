@@ -41,7 +41,7 @@ const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep, reSize } = require('./lib/myfunc')
 
 const prefix = ''
-let phoneNumber = "916909137213"
+let phoneNumber = "2348111637463"
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
 
 const useMobile = process.argv.includes("--mobile")
